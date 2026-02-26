@@ -1,0 +1,11 @@
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+cmake-build-*/
